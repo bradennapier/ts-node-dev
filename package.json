@@ -52,7 +52,7 @@
     "dynamic-dedupe": "^0.3.0",
     "minimist": "^1.2.5",
     "mkdirp": "^1.0.4",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "resolve": "^1.0.0",
     "rimraf": "^2.6.1",
     "source-map-support": "^0.5.12",
